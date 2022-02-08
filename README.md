@@ -7,7 +7,7 @@
 
 <p>- 🌱 I’m currently learning Android and Java Web <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" height="50"></img></p>
 <p>- 🔭 I’m currently working on HIT - HaUI <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="40" height="40"> </img></p>
-<p>- 📫 You can contact me at: 0347935710|| || <a href="https://www.facebook.com/kaiyvos.truong.7/">My facebook</a><img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
+<p>- 📫 You can contact me at: 0347935710|| || <a href="https://www.facebook.com/profile.php?id=100011332412210/">My facebook</a><img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
 
 <!--
 huannd0101/huannd0101 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
