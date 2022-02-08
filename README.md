@@ -14,7 +14,8 @@ huannd0101/huannd0101 is a ✨ special ✨ repository because its README.md (thi
 
 Here are some ideas to get you started:
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamtruong2k1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamtruong2k1&theme=radical)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,8 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamtruong2k1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamtruong2k1&theme=radical)
+
 
 
 <h3 align="left">Languages</h3>
